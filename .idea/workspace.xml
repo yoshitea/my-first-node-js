@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5bf39ed-3613-4178-9f3c-b927adf2d62d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1g6CZwCufK1fzsOu6EHiXZN1Rfw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.kotlin.data.view" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597427594229">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="609" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1597427594229" />
+    <state x="57" y="106" key="SettingsEditor" timestamp="1597427971275">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="57" y="106" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1597427971275" />
+  </component>
+</project>
